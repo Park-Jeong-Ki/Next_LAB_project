@@ -1,5 +1,11 @@
 # 딥러닝을 활용한 차량 인식 & 차종 분류
 
+colab 예시
+
+[https://colab.research.google.com/drive/1-vBkeeQ0HrgCV95RHHlw405rXpWZRS31?usp=sharing]
+
+---
+
 ## 프로젝트 개요
 | NextLab 기업과 협업 하여 CCTV 영상에서 차량을 인식하고, 차종을 분류하는 모델을 만들었습니다!
 
@@ -65,7 +71,4 @@ Fine-grained Classification 문제에 알맞은 증강 기법 사용
 ![image](https://user-images.githubusercontent.com/71398226/133567031-b4d92414-6fb1-4383-96b5-b2ab655d6d96.png)
 
 
----
-colab 예시
 
-[https://colab.research.google.com/drive/1-vBkeeQ0HrgCV95RHHlw405rXpWZRS31?usp=sharing]
