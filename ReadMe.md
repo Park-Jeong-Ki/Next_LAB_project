@@ -45,12 +45,25 @@ Fine-grained Classification 문제에 알맞은 증강 기법 사용
 ![image](https://user-images.githubusercontent.com/71398226/133566065-3ad87517-a771-4f19-a588-d3881cf3065e.png)
 
 
+## Model Summary
+![image](https://user-images.githubusercontent.com/71398226/133566602-30f73963-9303-435c-a3b5-7cb3776e83ee.png)
+
 ## Best Model Parameter
 - 모든 class(322종)에 대해 이미지 데이터 300개씩 증강한 데이터 (약 96600장)
 - EfficientV2 B0 
 - input size(224,224,3)
 - input~30 layer freeze (학습규제)
 - imagenet pretrained 가중치 사용
+
+## Best Model Result
+![image](https://user-images.githubusercontent.com/71398226/133566684-8867e143-ca13-449b-af1a-460e3719e26c.png)
+
+## HeatMap Result
+![image](https://user-images.githubusercontent.com/71398226/133566790-3f96b1ef-d643-4633-9097-73645b56272e.png)
+
+## Test Data Result
+![image](https://user-images.githubusercontent.com/71398226/133567031-b4d92414-6fb1-4383-96b5-b2ab655d6d96.png)
+
 
 ---
 colab 예시
